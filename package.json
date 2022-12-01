@@ -26,8 +26,10 @@
     "webpack-cli": "^5.0.0"
   },
   "dependencies": {
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2",
+    "short-unique-id": "^4.4.4",
     "web-ifc": "^0.0.36",
-    "web-ifc-three": "^0.0.121",
     "web-ifc-viewer": "^1.0.213"
   }
 }

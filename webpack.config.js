@@ -23,5 +23,6 @@ module.exports = {
                 }
             },
         ],
-    }
+    },
+    externals: { "node:fs": "{}" },
 }
